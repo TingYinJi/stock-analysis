@@ -1,0 +1,9 @@
+# 忽略 PyCharm 的設定檔
+.idea/
+
+# 忽略 Python 暫存檔
+__pycache__/
+*.pyc
+
+# 忽略你的本地最愛清單紀錄
+favorites.json
